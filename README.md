@@ -19,6 +19,8 @@ To build and compare Decision Tree and Random Forest classifiers on the Heart Di
 ## 📈 Results:
 - **Decision Tree Accuracy**: ~80%
 - **Random Forest Accuracy**: ~99%
+- Random Forest performed better due to lower overfitting and higher stability.
+- Feature importance chart shows the most influential health indicators.
 
 ## 🧰 Tools Used:
 - Python
