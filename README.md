@@ -17,9 +17,8 @@ To build and compare Decision Tree and Random Forest classifiers on the Heart Di
 7. Plotted feature importance
 
 ## 📈 Results:
-- **Decision Tree Accuracy**: ~XX%
-- **Random Forest Accuracy**: ~YY%
-- **Most Important Features**: [Top 3 from feature plot]
+- **Decision Tree Accuracy**: ~80%
+- **Random Forest Accuracy**: ~99%
 
 ## 🧰 Tools Used:
 - Python
